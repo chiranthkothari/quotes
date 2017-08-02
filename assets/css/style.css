@@ -1,0 +1,34 @@
+#splash{
+    width: 100%;
+    height: 100vh;
+    background: -webkit-linear-gradient(#4568DC,#B06AB3)
+}
+.main-container{
+    width: 100%;
+    height: 100vh;
+    display: table;
+}
+.text-vert{
+    width: 100%;
+    height: 100vh;
+    display: table-cell;
+    vertical-align: middle;
+}
+h1{
+    font-family: 'Cookie', cursive;
+    color: white;
+    margin-bottom: 30px;
+}
+.btns{
+    background: transparent;
+    border: 2px solid white;
+    padding: 7px 8px;
+    font-family: 'Quicksand', sans-serif;
+    color: white;
+    font-weight: bolder;
+}
+.btns:hover{
+    background: white;
+    color: #B06AB3;
+    transition: all 0.3s ease-in-out;
+}
