@@ -7,7 +7,7 @@ function quote(){
         break;
 
         case 3:
-        $('.aq').text("Fuck excuses, yot either want it or you dont");
+        $('.aq').text("Fuck excuses, you either want it or you dont");
         break;
 
         case 4:
